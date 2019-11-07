@@ -28,9 +28,8 @@ public class Pieces {
         return moves;
     }
     public String toString(){
-        return "\nClass " + name +
+        return "\nClass Pieces" +
                 "\n\t{name=" + getName() + "}" +
                 "\n\t{pieceId=" + getPieceId() + "}";
     }
-
 }
