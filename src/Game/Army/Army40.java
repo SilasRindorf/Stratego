@@ -11,6 +11,7 @@ public class Army40 {
         army[7] = new Scout();
         for (int i = 8; i < 16; i++) {
             //army[i] = new Miner();
+            //
         }
         for (int i = 0; i < army.length; i++) {
             System.out.println(army[i]);
